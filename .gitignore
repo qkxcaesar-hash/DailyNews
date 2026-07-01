@@ -1,0 +1,6 @@
+__pycache__/
+rendered_docx/
+raw_*.json
+*_sources.json
+title_translation_cache.json
+.DS_Store
